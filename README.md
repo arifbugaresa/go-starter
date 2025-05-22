@@ -1,1 +1,1 @@
-# go-modular-template
+# go-starter-template
